@@ -12,17 +12,17 @@ Scenario:
 """
 
 
-def merge_sort(a):
+def merge_sort(array):
     """
-    Recursively sorts the list 'a' using Merge Sort.
+    Recursively sorts the list 'array' using Merge Sort.
     Returns a new sorted list.
     """
-    if len(a) <= 1:
-        return a
+    if len(array) <= 1:
+        return array
 
-    mid = len(a) // 2
-    left = merge_sort(a[:mid])
-    right = merge_sort(a[mid:])
+    mid = len(array) // 2
+    left = merge_sort(array[:mid])
+    right = merge_sort(array[mid:])
 
     i = j = 0
     result = []
