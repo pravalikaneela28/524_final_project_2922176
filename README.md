@@ -260,6 +260,20 @@ Python emphasizes abstraction and readability, while C emphasizes performance an
 
 
 
+## References
+
+1. **GeeksforGeeks – Merge Sort**  
+   A simple understanding of merge sort algorithm.  
+   https://www.geeksforgeeks.org/merge-sort/
+
+2. **Python Docs**  
+   Official documentation for Python language.  
+   https://docs.python.org/3/
+
+3. **C Language Reference**  
+   Documentation for standard C programming constructs.  
+   https://en.cppreference.com/w/
+
 
 
 
