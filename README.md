@@ -121,8 +121,8 @@ Expected sorted output:
 ```python
 python 
 
-left = merge_sort(a[:mid])
-right = merge_sort(a[mid:])
+left = merge_sort(array[:mid])
+right = merge_sort(array[mid:])
 result = []
 
 while i < len(left) and j < len(right):
