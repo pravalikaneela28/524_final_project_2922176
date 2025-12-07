@@ -272,7 +272,8 @@ Python emphasizes abstraction and readability, while C emphasizes performance an
 
 3. **C Language Reference**  
    Documentation for standard C programming constructs.  
-   https://en.cppreference.com/w/
+   https://www.tutorialspoint.com/cprogramming/index.htm
+   https://en.wikipedia.org/wiki/C_(programming_language)#Limitations
 
 
 
