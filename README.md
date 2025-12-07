@@ -11,6 +11,7 @@ Each server maintains its own log file, usually sorted by its internal clock. Wh
 
 In this project, each server’s “log file” is represented as a list of timestamps (integers).
 Both programs:
+
 	•	Accept log data from multiple servers
 	•	Combine all timestamps into one collection
 	•	Apply MergeSort to generate a globally sorted timeline, simulating the real process of merging distributed system logs.
@@ -18,6 +19,7 @@ Both programs:
 # Programming Languages and Paradigms Chosen
 
 Python Version
+
 	•	Paradigm: 
             • High-level, functional-style
 	•	Characteristics: 
@@ -27,9 +29,9 @@ Python Version
 	•	Why suitable:
             • Simple, expressive, and ideal for modeling lists of timestamps or log records.
 
-⸻
 
 C Version
+
 	•	Paradigm: 
                 • Low-level, imperative and procedural
 	•	Characteristics:
