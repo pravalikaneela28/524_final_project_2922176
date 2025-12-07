@@ -1,7 +1,7 @@
 /*
 Merge Sort Implementation in C
 Author: Pravalika Neela
-CSU ID: 2922716
+CSU ID: 2922176
 
 Scenario:
 - Each "server" has its own log file.
